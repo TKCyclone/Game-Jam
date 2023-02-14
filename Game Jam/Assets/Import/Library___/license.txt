@@ -1,0 +1,11 @@
+Model Information:
+* title:	Library \ Библиотека
+* source:	https://sketchfab.com/3d-models/library-4cf98a40c33b4732a8d99eae346c6412
+* author:	KristinaBeresten (https://sketchfab.com/KrisBer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Library \ Библиотека" (https://sketchfab.com/3d-models/library-4cf98a40c33b4732a8d99eae346c6412) by KristinaBeresten (https://sketchfab.com/KrisBer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
