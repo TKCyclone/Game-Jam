@@ -13,6 +13,8 @@ public class Node : MonoBehaviour{
     private Renderer rend;
     private Color[] startColors;
 
+    BuildManager buildManager;
+
 
     // Start is called before the first frame update
     void Start()
@@ -23,22 +25,30 @@ public class Node : MonoBehaviour{
         {
             startColors[i] = rend.materials[i].color;
         }
+
+        buildManager = BuildManager.instance;
     }
 
     void OnMouseDown ()
     {
+        if (buildManager.GetTurretToBuild() == null)
+            return;
+
         if (turret != null)
         {
             Debug.Log("Can't Build There");
             return;
         }
 
-        GameObject turretToBuild = BuildManager.instance.GetTurretToBuild();
+        GameObject turretToBuild = buildManager.GetTurretToBuild();
        turret = (GameObject)Instantiate(turretToBuild, transform.position + positionOffset, transform.rotation);
     }
 
     void OnMouseEnter ()
     {
+        if (buildManager.GetTurretToBuild() == null)
+            return;
+
         for (int i = 0; i < rend.materials.Length; i++)
         {
             rend.materials[i].color = hoverColor;
