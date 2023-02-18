@@ -103,12 +103,6 @@ Transform:
   - {fileID: 6945888880097832715}
   - {fileID: 6945888879490713496}
   - {fileID: 7404661094204637049}
-  - {fileID: 6945888881051973382}
-  - {fileID: 6945888880890199331}
-  - {fileID: 6945888880197904588}
-  - {fileID: 6945888879805245961}
-  - {fileID: 6945888880340043465}
-  - {fileID: 6945888879637489490}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -188,6 +182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &7404661094204637049 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -269,6 +264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880702151169 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -355,6 +351,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661093840573578
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -431,6 +428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880613686767 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -512,6 +510,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880616269507 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -593,6 +592,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880627187141 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -674,6 +674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880811979959 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -760,6 +761,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661093994444054
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -836,6 +838,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880765967475 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -922,6 +925,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094050603963
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1003,6 +1007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094052448273
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1084,6 +1089,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094072412057
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1165,87 +1171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
---- !u!1001 &7404661094114176940
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 8851866911532859691}
-    m_Modifications:
-    - target: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_Name
-      value: Node (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_RootOrder
-      value: 79
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -26.19
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.1242313
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -10.8220005
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4838814134572423872, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
---- !u!1 &6945888880340043464 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661094114176940}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7404661094114176938
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6945888880340043464}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c58a252bf0020374eb984a4facc15012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
---- !u!4 &6945888880340043465 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661094114176940}
-  m_PrefabAsset: {fileID: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094133256513
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1327,6 +1253,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094141161281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1408,6 +1335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094189093814
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1484,6 +1412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880568466131 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -1565,6 +1494,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880540566115 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -1651,6 +1581,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094326493519
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1732,6 +1663,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094357123622
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1808,6 +1740,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888881205734211 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -1889,6 +1822,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888881171629861 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -1975,6 +1909,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094500984987
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2056,6 +1991,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094546793988
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2132,6 +2068,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888881250684769 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -2213,6 +2150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888881267471825 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -2294,91 +2232,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888881263989303 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
   m_PrefabInstance: {fileID: 7404661094566263634}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &7404661094639080518
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 8851866911532859691}
-    m_Modifications:
-    - target: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_Name
-      value: Node (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_RootOrder
-      value: 76
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -26.23
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.1242313
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -8.02
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4838814134572423872, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
---- !u!1 &6945888880890199330 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661094639080518}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7404661094639080516
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6945888880890199330}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c58a252bf0020374eb984a4facc15012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
---- !u!4 &6945888880890199331 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661094639080518}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7404661094704005506
 PrefabInstance:
@@ -2456,6 +2314,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880862783719 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -2542,6 +2401,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094715538997
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2623,6 +2483,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094716774938
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2699,6 +2560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888881085133695 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -2785,6 +2647,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094741355319
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2866,87 +2729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
---- !u!1001 &7404661094748626531
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 8851866911532859691}
-    m_Modifications:
-    - target: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_Name
-      value: Node (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_RootOrder
-      value: 75
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -26.23
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.1242313
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -7.052
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4838814134572423872, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
---- !u!4 &6945888881051973382 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661094748626531}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &6945888881051973383 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661094748626531}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7404661094748626529
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6945888881051973383}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c58a252bf0020374eb984a4facc15012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094801269685
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3028,6 +2811,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094829653542
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3104,6 +2888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888881005582147 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -3185,6 +2970,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879607156497 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -3271,6 +3057,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094946625563
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3352,6 +3139,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661094966437456
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3428,6 +3216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879525531445 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -3514,6 +3303,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095006311428
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3590,6 +3380,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879716351329 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -3671,6 +3462,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879682910421 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -3752,92 +3544,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879648781821 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
   m_PrefabInstance: {fileID: 7404661095074929816}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &7404661095089393207
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 8851866911532859691}
-    m_Modifications:
-    - target: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_Name
-      value: Node (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_RootOrder
-      value: 80
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -26.19
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.1242313
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -11.83
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4838814134572423872, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
---- !u!4 &6945888879637489490 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661095089393207}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &6945888879637489491 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661095089393207}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7404661095089393205
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6945888879637489491}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c58a252bf0020374eb984a4facc15012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
 --- !u!1001 &7404661095142878737
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3919,6 +3631,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095161628200
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3995,6 +3708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879326408525 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -4076,6 +3790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879236637677 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -4157,6 +3872,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879263775169 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -4243,6 +3959,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095269723901
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4324,6 +4041,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095275488101
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4405,6 +4123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095276494059
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4486,6 +4205,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095285227523
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4567,6 +4287,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095302004853
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4648,6 +4369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095341990895
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4729,6 +4451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095352726630
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4805,6 +4528,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879374425347 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -4891,6 +4615,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095370324926
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4967,6 +4692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879390380763 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -5053,6 +4779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095455710888
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5129,6 +4856,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880073603021 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -5210,6 +4938,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880097832715 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -5291,6 +5020,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880044023757 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -5377,6 +5107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095527608742
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5453,6 +5184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880302643395 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -5539,6 +5271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095567336201
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5620,6 +5353,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095577423690
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5696,6 +5430,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888880220022319 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -5782,87 +5517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
---- !u!1001 &7404661095633093033
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 8851866911532859691}
-    m_Modifications:
-    - target: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_Name
-      value: Node (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_RootOrder
-      value: 77
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -26.23
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.1242313
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -8.97
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4838814134572423872, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
---- !u!4 &6945888880197904588 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661095633093033}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &6945888880197904589 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661095633093033}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7404661095633093047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6945888880197904589}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c58a252bf0020374eb984a4facc15012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095662777229
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5944,6 +5599,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095665052207
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6025,6 +5681,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095723383451
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6106,87 +5763,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
---- !u!1001 &7404661095726908268
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 8851866911532859691}
-    m_Modifications:
-    - target: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_Name
-      value: Node (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_RootOrder
-      value: 78
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -26.23
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.1242313
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -9.938
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4838814134572423872, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
---- !u!1 &6945888879805245960 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 479181642881411428, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661095726908268}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7404661095726908266
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6945888879805245960}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c58a252bf0020374eb984a4facc15012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
---- !u!4 &6945888879805245961 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
-  m_PrefabInstance: {fileID: 7404661095726908268}
-  m_PrefabAsset: {fileID: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095738840446
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6263,6 +5840,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879828188187 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -6349,6 +5927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095833614868
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6425,6 +6004,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879996343153 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -6511,6 +6091,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!1001 &7404661095841872756
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6587,6 +6168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
 --- !u!4 &6945888879989395985 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479181642881411429, guid: c1ef7f86011e09344bd154248c24d3ff, type: 3}
@@ -6673,3 +6255,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.21223444, g: 0.23436831, b: 0.6886792, a: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
