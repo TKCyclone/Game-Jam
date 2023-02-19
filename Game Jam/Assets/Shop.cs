@@ -4,22 +4,25 @@ using UnityEngine;
 
 public class Shop : MonoBehaviour
 {
-    BuildManager BuildManager;
+    public TurrentBlueprint tower;
+    public TurrentBlueprint magicTower;
+    
+    BuildManager buildManager;
 
     void Start ()
     {
-        BuildManager = BuildManager.instance;
+        buildManager = BuildManager.instance;
     }
 
-    public void PurchaseStandardTurret ()
+    public void SelectTower ()
     {
-        Debug.Log("Standard Tower Purchased");
-        BuildManager.SetTurretToBuild(BuildManager.towerPrefab);
+        Debug.Log("Standard Tower Selected");
+        buildManager.SelectTurretToBuild(tower);
     }
 
-    public void PurchaseAnotherTurret ()
+    public void SelectMagicTower ()
     {
         Debug.Log("Magic Tower Selected");
-        BuildManager.SetTurretToBuild(BuildManager.magicTowerPrefab);
+        buildManager.SelectTurretToBuild(magicTower);
     }
 }
