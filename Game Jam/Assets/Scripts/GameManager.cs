@@ -17,6 +17,13 @@ public class GameManager : MonoBehaviour
     {
         if (GameIsOver)
             return;
+            
+        if (PlayerStats.Lives <=0)
+        {
+            EndGame();
+        }
+
+    }    
 
  
 
@@ -25,5 +32,5 @@ public class GameManager : MonoBehaviour
         GameIsOver = true;
         gameOverUI.SetActive(true);
     }
-    }
+    
 }

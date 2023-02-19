@@ -7,7 +7,7 @@ public class PlayerStats : MonoBehaviour
     public int startMoney = 250;
 
     public static int Lives;
-    public int startLives;
+    public int startLives = 20;
 
     public static int Waves;
     // Start is called before the first frame update
