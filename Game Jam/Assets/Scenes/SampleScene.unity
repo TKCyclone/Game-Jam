@@ -8270,7 +8270,22 @@ MonoBehaviour:
     rate: 2
   - enemy: {fileID: 4436932138795713185, guid: 6b766370dd56d5840bc676193eda8cb9, type: 3}
     count: 3
+    rate: 0.1
+  - enemy: {fileID: 4436932138795713185, guid: 970e52b93eec7564fac2175769ad1ff9, type: 3}
+    count: 1
     rate: 1
+  - enemy: {fileID: 4436932138795713185, guid: 970e52b93eec7564fac2175769ad1ff9, type: 3}
+    count: 5
+    rate: 1
+  - enemy: {fileID: 4436932138795713185, guid: 6b766370dd56d5840bc676193eda8cb9, type: 3}
+    count: 5
+    rate: 0.1
+  - enemy: {fileID: 4436932138795713185, guid: 6c44e09dd28a8ad47a6098497203b8e5, type: 3}
+    count: 20
+    rate: 2
+  - enemy: {fileID: 4436932138795713185, guid: 6b766370dd56d5840bc676193eda8cb9, type: 3}
+    count: 10
+    rate: 0.1
   spawnPoint: {fileID: 1169993698}
   timeBetweenWaves: 2
   waveCountdownText: {fileID: 680145109}
@@ -10028,7 +10043,7 @@ MonoBehaviour:
     offset: {x: -0.2, y: 0.5, z: -0.2}
   magicTower:
     prefab: {fileID: 1238895581118770129, guid: 161846cd207c07b43b72dda68046c9c2, type: 3}
-    cost: 250
+    cost: 200
     offset: {x: 0, y: 0.2, z: 0}
 --- !u!65 &1257435491
 BoxCollider:
