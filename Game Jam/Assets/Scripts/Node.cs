@@ -34,8 +34,18 @@ public class Node : MonoBehaviour{
 
     public Vector3 GetBuildPosition ()
     {
-        return transform.position + positionOffset;
+        Vector3 buildPosition = transform.position + positionOffset;
+    
+        if (turret != null)
+        {
+            // if there's already a turret on the node, offset the build position so the new turret is centered on the node
+            Bounds bounds = turret.GetComponent<Collider>().bounds;
+            buildPosition += new Vector3(0f, bounds.size.y / 2f, 0f);
+        }
+    
+        return buildPosition;
     }
+
 
     void OnMouseDown ()
     {

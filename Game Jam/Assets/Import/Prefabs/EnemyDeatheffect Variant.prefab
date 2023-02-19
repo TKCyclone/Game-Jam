@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3541558473030901194, guid: 1a4659673412f254dbf7a0f29daf2eba, type: 3}
       propertyPath: looping
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3541558473030901194, guid: 1a4659673412f254dbf7a0f29daf2eba, type: 3}
       propertyPath: lengthInSec

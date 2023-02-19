@@ -23,6 +23,7 @@ public class BuildManager : MonoBehaviour
 
     public GameObject towerPrefab;
     public GameObject magicTowerPrefab;
+    public GameObject buildEffect;
 
     public bool CanBuild { get { return turretToBuild != null; } }
     public bool HasMoney { get { return PlayerStats.Money >= turretToBuild.cost; } }
@@ -37,8 +38,12 @@ public class BuildManager : MonoBehaviour
 
         PlayerStats.Money -= turretToBuild.cost;
 
-        GameObject turret = (GameObject)Instantiate(turretToBuild.prefab, node.GetBuildPosition(), Quaternion.identity);
+        Vector3 buildPos = node.GetBuildPosition() + turretToBuild.offset;
+        GameObject turret = (GameObject)Instantiate(turretToBuild.prefab, buildPos, Quaternion.identity);
         node.turret = turret;
+
+        GameObject effect = (GameObject)Instantiate(buildEffect, buildPos, Quaternion.identity);
+        Destroy(effect, 5f);
 
         Debug.Log ("Turret build! Money left: " + PlayerStats.Money);
     }

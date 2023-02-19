@@ -8,6 +8,7 @@ public class TurrentBlueprint
 
     public GameObject prefab;
     public int cost;
+    public Vector3 offset;
 
 
 

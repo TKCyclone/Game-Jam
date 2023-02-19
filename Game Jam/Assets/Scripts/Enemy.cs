@@ -37,6 +37,8 @@ public class Enemy : MonoBehaviour {
 		
 		GameObject effect = (GameObject)Instantiate(deathEffect, transform.position, Quaternion.identity);
 		Destroy(effect, 3f);
+
+		WaveSpawner.EneimesAlive--;
 		
 		Destroy(gameObject);
 	}
@@ -68,6 +70,7 @@ public class Enemy : MonoBehaviour {
 	void EndPath ()
 	{
 		PlayerStats.Lives--;
+		WaveSpawner.EneimesAlive--;
 		Destroy(gameObject);
 	}
 }
